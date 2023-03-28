@@ -1,5 +1,8 @@
+# Design-programming
 
+## Repository to add the activities for the Design Programming class
 
+---
 
 ### To compile typescript file
 ```
